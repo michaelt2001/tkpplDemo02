@@ -1,2 +1,3 @@
 Ini adalah file txt yang ketiga.
 File ini digunakan sebagai contoh untuk menambahkan cabang fitur-a yang merupakan induk cabang dari develop 
+Sekarang di cabang release akan merge ke cabang main
